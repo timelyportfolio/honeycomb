@@ -4,7 +4,6 @@ import * as methods from './methods'
 
 export default function GridFactory({ HexFactory } = {}) {
     /**
-     * @module src/grid
      * @function Grid
      *
      * @description

@@ -17,10 +17,7 @@ export const DIAGONAL_DIRECTION_COORDINATES = [
 ]
 
 /**
- * The different orientations hexes can have.
- *
  * @constant
- * @type {Object}
  */
 export const ORIENTATIONS = {
     /**
